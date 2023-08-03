@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.monitorqa.dev",
-      "sha256_cert_fingerprints":
-      ["7C:C2:98:6F:C1:00:3B:0A:B9:B5:8F:6B:BB:DA:1D:58:8A:CD:D0:B8:F4:B0:B1:6C:0F:CB:F1:D1:27:7B:4B:7D"]
-    }
-  }]
