@@ -1,1 +1,11 @@
-TBD
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "MJ8T8S479Z.com.monitorqa.ios",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
